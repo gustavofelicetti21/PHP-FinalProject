@@ -1,0 +1,350 @@
+header, section, footer {
+    width: 100%;
+    display: block;
+    float: left;
+}
+
+.p-36 {
+    padding: 36px;
+}
+
+.py-36 {
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+
+.px-36 {
+    padding-left: 36px;
+    padding-right: 36px;
+}
+
+.pl-36 {
+    padding-left: 36px;
+}
+
+.pr-36 {
+    padding-right: 36px;
+}
+
+.pt-36 {
+    padding-top: 36px;
+}
+
+.pb-36 {
+    padding-bottom: 36px;
+}
+
+.m-36 {
+    margin: 36px;
+}
+
+.my-36 {
+    margin-top: 36px;
+    margin-bottom: 36px;
+}
+
+.mx-36 {
+    margin-left: 36px;
+    margin-right: 36px;
+}
+
+.ml-36 {
+    margin-left: 36px;
+}
+
+.mr-36 {
+    margin-right: 36px;
+}
+
+.mt-36 {
+    margin-top: 36px;
+}
+
+.mb-36 {
+    margin-bottom: 36px;
+}
+
+.bg-verde-escuro {
+    background: #30332e;
+}
+
+.bg-bege {
+    background: #b3efb2;
+}
+
+.bg-br {
+    background: #e8f1f2;
+}
+
+.cl-br {
+    color: #e8f1f2;
+}
+
+.cl-verde-escuro {
+    color: #30332e;
+}
+
+.cl-cinza {
+    color: #686868;
+}
+/*
+e8f1f2
+7a9e7e
+b3001b
+*/
+
+section#pre-header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+section#pre-header img {
+    width: 21px;
+}
+
+section#pre-header p {
+    font-size: 14px;
+    display: block;
+}
+
+header img {
+    width: 90%;
+}
+
+header .navbar {
+    display: block;
+    float: left;
+}
+
+header nav {
+    margin-top: 3px;
+}
+
+header button img {
+    width: 30px;
+    height: 30px;
+}
+
+header div.acessorios {
+    height: 50px;
+}
+
+header div.acessorios img {
+    width: 50px;
+    height: 50px;
+}
+
+header div.acessorios a {
+    text-decoration: none;
+    height: 50px;
+}
+
+header #marginajuste {
+    margin-top: 8px;
+}
+
+section#navbar-header {
+    padding-bottom: 12px;
+}
+
+section#navbar-header img {
+    width: 24px;
+    height: 24px;
+}
+
+section#navbar-header ul li {
+    font-weight: bold;
+    display: inline-block;
+}
+
+section#banner img {
+    width: 100%;
+}
+
+section#categorias img {
+    margin-bottom: 16px;
+}
+
+section#categorias p {
+    font-weight: 600;
+    font-size: 20px;
+    color: #30332e;
+}
+
+section#mais-vendidos p#vendido{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+form.cadastro {
+    width: 60%;
+}
+
+section#contato div#reclamacao input {
+    height: 250px;
+}
+
+section#pre-footer img{
+    width: 28px;
+    display: block;
+    float: left;
+    margin-right: 8px;
+}
+
+section#pre-footer p {
+    width: auto;
+    float: left;
+    display: block;
+    text-align: justify;
+}
+
+section#pre-footer p#title {
+    font-weight: 600;
+}
+
+section#login a {
+    font-size: 13px;
+}
+
+section#pag img#logo {
+    margin-left: 183px;
+    margin-bottom: 36px;
+}
+
+section#pag p.titulo{
+    font-size: 18px;
+}
+
+section#pag input {
+    margin-bottom: 16px;
+}
+
+section#pag .w375 {
+    width: 37%;
+}
+
+section#pag button {
+    height: 60px;
+}
+
+.ml-8 {
+    margin-left: 8px;
+}
+
+.mt-8 {
+    margin-top: 16px;
+}
+
+.mr-16 {
+    margin-right: 16px;
+}
+
+div.produto-vendido img {
+    width: 100%;
+}
+
+div.produto-vendido p.total {
+    text-align: right;
+}
+
+section#produto div.imagens-lateral p {
+    padding: 4px;
+    border: 1px;
+    border-style: solid;
+    border-color: #686868;
+    border-radius: 6px;
+}
+
+section#produto div.imagens-lateral p.selecionado {
+    border-color: #0d6efd;
+}
+
+section#produto div.imagens-lateral p img {
+    height: 61px;
+}
+
+section#produto div.imagens-lateral img.imagem-principal {
+    height: 506px;
+}
+
+section#produto div.imagens-lateral .nborder {
+    border: 0;
+    padding: 0;
+}
+
+section#banner-2 img{
+    border-radius: 20px;
+    display: block;
+}
+
+section#hot div.fundo {
+    background: #000000;
+    padding: 36px;
+    border-radius: 20px;
+}
+
+section#hot div.fundo h3 {
+    color: #ffffff;
+}
+
+.produto-cesta {
+    border: 1px;
+    border-style: solid;
+    border-color: #686868;
+    padding: 2px;
+    width: auto;
+    height: auto;
+    display: block;
+    float: left;
+}
+
+.produto-cesta .imagem-cesta {
+    width: 70px;
+    height: 70px;
+    display: block;
+    float: left;
+}
+
+.produto-cesta img#cestinha {
+    height: 75px;
+    width: auto;
+}
+
+.produto-cesta p {
+    font-size: 13px;
+}
+
+.ultimo-produto {
+    margin-bottom: 350px;
+}
+
+.slick-list {
+    max-height: 430px;
+}
+
+button.slick-prev {
+    visibility: hidden;
+}
+
+button.slick-next {
+    visibility: hidden;
+}
+
+#categorias .slick-track {
+    height: 236px;
+}
+
+.botao-compra {
+    position: absolute;
+    bottom: 300px;
+    left: 0;
+    right: 0;
+    display: block;
+    float: left;
+    width: 75%;
+    margin-left: 12.5%;
+}
+
+footer ul {
+    list-style: none;
+}
